@@ -1,6 +1,8 @@
 # McDonalds_Segmentation
 
 Feynn-lab-project-2
+
+
 This is market_segmentation_project This dataset provides a summary of the analysis performed on the McDonald's dataset. The dataset contains various features
 
 Food Preferences:
